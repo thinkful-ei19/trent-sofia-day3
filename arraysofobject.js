@@ -21,3 +21,6 @@ let arrayObj = [object1, object2, object3, object4];
 for (let i = 0; i < arrayObj.length; i++) {
 	console.log(`${arrayObj[i].name} : ${arrayObj[i].jobTitle}`);
 }
+
+
+
